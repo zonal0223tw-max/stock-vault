@@ -1,0 +1,4 @@
+# 真實持股資料一律不進 repo（資料在瀏覽器 localStorage，匯出檔可能落在這）
+stock-vault-*.json
+*.bak
+.DS_Store
